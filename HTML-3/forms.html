@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Forms In HTML</title>
+  </head>
+  <body>
+    <h1>Forms In HTML</h1>
+
+    <p>
+      Forms are the parts of the HTML document that connect the users
+      interaction and data to the backend. Commonly, many forms are seen in
+      everyday websites.
+    </p>
+
+    <p>
+      Every input tag inside can have a placeholder property, which displays
+      placeholder text inside the tag. Also, there exist labels inside which an
+      input element is generally nested, and they are used to present a caption
+      for the input text.
+    </p>
+
+    <p>There are also some buttons </p>
+
+    <h2>Example</h2>
+
+    <form action="/action">
+      <div class="form-username">
+        <label for="user-username">Username</label>
+        <input type="text" name="username" id="user-username" placeholder="Enter Your Username">
+      </div>
+
+      <div class="form-password">
+        <label for="user-password">Password</label>
+        <input type="password" name="password" id="user-password" placeholder="Enter Your Password" >
+      </div>
+
+      <div class="form-age">
+        <label for="user-age">Age</label>
+        <input type="number" name="age" id="user-age" placeholder="Enter Your Age" >
+      </div>
+
+      <button>Submit</button>
+    </form>
+  </body>
+</html>
