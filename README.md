@@ -6,3 +6,4 @@ A documentation of all the code I practised during my web development journey.
 - **HTML-3**: Tables, table markup, rowspan and colspan, forms, and various type of inputs, name attribute, buttons.
 
 - **CSS-1**: Adding CSS to HTML, basic text and font properties.
+- **CSS-2**: CSS Cascading, Inheritance, Selectors and Combinators.
