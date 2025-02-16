@@ -7,3 +7,4 @@ A documentation of all the code I practised during my web development journey.
 
 - **CSS-1**: Adding CSS to HTML, basic text and font properties.
 - **CSS-2**: CSS Cascading, Inheritance, Selectors and Combinators.
+- **CSS-3**: A fundamental understanding of the CSS Box Model, and relative units such as %, em or rem.
