@@ -9,3 +9,4 @@ A documentation of all the code I practised during my web development journey.
 - **CSS-2**: CSS Cascading, Inheritance, Selectors and Combinators.
 - **CSS-3**: A fundamental understanding of the CSS Box Model, and relative units such as %, em or rem.
 - **CSS-4**: A deeper dive on transitions, transforms, background-images. Overall, a more deeper understanding of CSS properties.
+- **CSS-5**: An understanding of CSS Flexbox, and all the effects of its properties.
