@@ -12,3 +12,4 @@ A documentation of all the code I practised during my web development journey.
 - **CSS-5**: An understanding of CSS Flexbox, and all the effects of its properties.
 - **CSS-6**: An understanding of CSS Grid, and Keyframes Animations.
 - **CSS-Mini-Project**: A small photography website with a simple sidebar, and minimalist animations.
+- **Bootstrap**: An overview of all the layout and components available in bootstrap, for faster UI creation.
