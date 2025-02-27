@@ -13,3 +13,4 @@ A documentation of all the code I practised during my web development journey.
 - **CSS-6**: An understanding of CSS Grid, and Keyframes Animations.
 - **CSS-Mini-Project**: A small photography website with a simple sidebar, and minimalist animations.
 - **Bootstrap**: An overview of all the layout and components available in bootstrap, for faster UI creation.
+- **CSS-Project**: A first-hand copy of Spotify's UI, simply using HTML and CSS.
