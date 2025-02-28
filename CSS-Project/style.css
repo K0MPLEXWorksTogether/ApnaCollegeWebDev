@@ -223,10 +223,6 @@ a {
     align-items: center;
 }
 
-.album {
-    width: 25%;
-}
-
 .player-controls {
     width: 50%;
 }
@@ -250,6 +246,7 @@ a {
 
 .player-control-icon:hover {
     opacity: 1;
+    cursor: pointer;
 }
 
 .play-button {
@@ -287,4 +284,47 @@ a {
     background-color: #1bd760;
     border-radius: 50%; 
     cursor: pointer;
+}
+
+.album-icon {
+    height: 2rem;
+    width: 2rem;
+    cursor: pointer;
+}
+
+.album {
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.album-cover {
+    padding: 1rem;
+}
+
+.album-details {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.song-name {
+    font-weight: 900;
+}
+
+.song-artist {
+    font-size: 0.75rem;
+    opacity: 0.75;
+}
+
+.player-options {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.player-options-icon {
+    height: 2rem;
+    width: 2rem;
 }
