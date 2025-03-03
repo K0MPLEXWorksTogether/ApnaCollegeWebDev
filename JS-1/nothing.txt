@@ -1,0 +1,1 @@
+No work written as static code, only ran code on the browser console.
