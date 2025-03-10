@@ -16,3 +16,4 @@ A documentation of all the code I practised during my web development journey.
 - **CSS-Project**: A first-hand copy of Spotify's UI, simply using HTML and CSS.
 - **JS-1**: A basic understanding of JS as a programming language. Starting with variables, data types. Creation of variables using the `var`, `let` and `const`, strings, `typeof`.
 - **JS-2**: Understanding logical and comparison operators, and conditional statements, truthy and falsy values of JS, template literals.
+- **JS-3**: An understanding of arrays, strings and their methods.
