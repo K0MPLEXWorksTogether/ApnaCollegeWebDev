@@ -20,3 +20,4 @@ A documentation of all the code I practised during my web development journey.
 - **JS-4**: Working with for loops, over indices, arrays, for-of loop, while loops.
 - **JS-5**: Working with object literals and the Math object literal.
 - **JS-6**: Creating function and higher order functions, methods, scope of var, let and const, scoping option available in JS.
+- **JS-7**: Miscelleneous concepts such as arrow functions, setTimeout(), setInterval(), and the meaning of `this`.
