@@ -18,3 +18,4 @@ A documentation of all the code I practised during my web development journey.
 - **JS-2**: Understanding logical and comparison operators, and conditional statements, truthy and falsy values of JS, template literals.
 - **JS-3**: An understanding of arrays, strings and their methods.
 - **JS-4**: Working with for loops, over indices, arrays, for-of loop, while loops.
+- **JS-5**: Working with object literals and the Math object literal.
