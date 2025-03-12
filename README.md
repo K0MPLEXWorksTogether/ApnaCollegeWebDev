@@ -1,4 +1,5 @@
 # ApnaCollegeWebDev
+
 A documentation of all the code I practised during my web development journey.
 
 - **HTML-1**: Basic tags like headings, paragraphs, line breaks, anchors, etc.
@@ -22,3 +23,4 @@ A documentation of all the code I practised during my web development journey.
 - **JS-6**: Creating function and higher order functions, methods, scope of var, let and const, scoping option available in JS.
 - **JS-7**: Miscelleneous concepts such as arrow functions, setTimeout(), setInterval(), and the meaning of `this`.
 - **JS-8**: Higher order functions such as map, every, etc. Concepts like destructuring, spread and rest.
+- **JS-9**: DOM, creating attributes, elements, and many other DOM features.
