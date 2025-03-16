@@ -26,3 +26,4 @@ A documentation of all the code I practised during my web development journey.
 - **JS-9**: DOM, creating attributes, elements, and many other DOM features.
 - **JS-10**: Different type of mouse, keyboard, and form events. `this` in event handlers, and the `event` attribute.
 - **JS-Mini-Project**: Two mini-projects, one is a very simple todo list, and the second is a replica of the simon says game. Involvement of DOM manipulations was heavy in both.
+- **JS-11**: How JS deals with function calls, breakpoints, call stack, the workarounds to make JS async, callbacks, promises, callback hell.
