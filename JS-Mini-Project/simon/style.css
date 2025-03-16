@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    margin: 0 auto;
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2.5rem;
+    height: 30rem;
+    width: 30rem;
+
+}
+
+.item {
+    border-radius: 25%;
+    border: 10px solid black;
+}
+
+.pink {
+    background-color: #d55075;
+}
+
+.aqua {
+    background-color: #58a0b9;
+}
+
+.orange {
+    background-color: #fa903b;
+}
+
+.blue {
+    background-color: #7794f8;
+}
+
+.flash {
+    opacity: 0.3;
+}
+
+.userFlash {
+    background-color: green;
+    opacity: 0.3;
+}
