@@ -29,3 +29,4 @@ A documentation of all the code I practised during my web development journey.
 - **JS-11**: How JS deals with function calls, breakpoints, call stack, the workarounds to make JS async, callbacks, promises, callback hell.
 - **JS-12**: `async`, `await`, How do APIs work, query strings, request headers, types of HTTP requests, How to make requests in JS using `fetch()`, async nature of fetch.
 - **JS-13**: Using `axios` as an alternative to fetch(), how it makes life easier, and how to pass parameters and headers to requests.
+- **Terminal**: Basics of terminals, fundamental commands. You use linux, you skip this.
