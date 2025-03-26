@@ -1,0 +1,18 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "A place where I run a simple web server using ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ExpressJS",
+    "axios"
+  ],
+  "author": "Abhiram Mangipudi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

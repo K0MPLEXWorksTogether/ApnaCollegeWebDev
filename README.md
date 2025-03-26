@@ -31,3 +31,4 @@ A documentation of all the code I practised during my web development journey.
 - **JS-13**: Using `axios` as an alternative to fetch(), how it makes life easier, and how to pass parameters and headers to requests.
 - **Terminal**: Basics of terminals, fundamental commands. You use linux, you skip this.
 - **GitHub**: Basics of Git, basic git commands, using GitHub.
+- **Express**: How Express handles requests, parses them, sends a response, accessing path parameters, query strings.
