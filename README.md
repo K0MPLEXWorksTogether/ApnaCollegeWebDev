@@ -32,3 +32,4 @@ A documentation of all the code I practised during my web development journey.
 - **Terminal**: Basics of terminals, fundamental commands. You use linux, you skip this.
 - **GitHub**: Basics of Git, basic git commands, using GitHub.
 - **Express**: How Express handles requests, parses them, sends a response, accessing path parameters, query strings.
+- **EJS**: How does server-side rendering work? What is a templating engine? Basic syntax, accessing variables and collections, serving static files, and using subteplating, or partials.

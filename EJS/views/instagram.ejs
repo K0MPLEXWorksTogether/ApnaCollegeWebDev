@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Instagram EJS</title>
+
+    <link rel="stylesheet" href="/css/style.css">
+  </head>
+  <body>
+    <h1>Welcome To Instagram, <%= data.name %>.</h1>
+
+    <h2>Your followers are: <%= data.followers %> </h2>
+    <h2>Your are following: <%= data.following %> </h2>
+
+    <div class="posts">
+        <% for (post of data.posts) { %>
+            <%- include("card", post) %>
+        <% } %>   
+    </div>
+
+    <style>
+        .posts {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+        }
+    </style>
+
+    <script src="/js/app.js"></script>
+  </body>
+</html>
