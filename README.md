@@ -33,5 +33,6 @@ A documentation of all the code I practised during my web development journey.
 - **GitHub**: Basics of Git, basic git commands, using GitHub.
 - **Express**: How Express handles requests, parses them, sends a response, accessing path parameters, query strings.
 - **EJS**: How does server-side rendering work? What is a templating engine? Basic syntax, accessing variables and collections, serving static files, and using subteplating, or partials.
-- **Misc**: Object-Oriented Programming using prototypes, classes, constructors, inheritance, polymorphism. Handling post requests. 
+- **Misc**: Object-Oriented Programming using prototypes, classes, constructors, inheritance, polymorphism. Handling post requests.
 - **REST**: Learning how to create RESTful services for better state management of applications.
+- **SQL-1**: What is a database? What is a Table? CREATE, INSERT, SELECT, Key Constraints, Column Constraints.
