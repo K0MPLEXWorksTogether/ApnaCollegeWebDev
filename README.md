@@ -36,3 +36,4 @@ A documentation of all the code I practised during my web development journey.
 - **Misc**: Object-Oriented Programming using prototypes, classes, constructors, inheritance, polymorphism. Handling post requests.
 - **REST**: Learning how to create RESTful services for better state management of applications.
 - **SQL-1**: What is a database? What is a Table? CREATE, INSERT, SELECT, Key Constraints, Column Constraints.
+- **SQL-2**: WHERE, SQL Operators, LIMIT, ORDER BY, Aggregate Functions, GROUP BY, HAVING, General Order Of An SQL Query, UPDATE, DELETE, TRUNCATE, ALTER.
