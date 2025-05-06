@@ -37,3 +37,4 @@ A documentation of all the code I practised during my web development journey.
 - **REST**: Learning how to create RESTful services for better state management of applications.
 - **SQL-1**: What is a database? What is a Table? CREATE, INSERT, SELECT, Key Constraints, Column Constraints.
 - **SQL-2**: WHERE, SQL Operators, LIMIT, ORDER BY, Aggregate Functions, GROUP BY, HAVING, General Order Of An SQL Query, UPDATE, DELETE, TRUNCATE, ALTER.
+- **MongoDB-1**: Installtion, mongosh, JSON Vs. BSON, INSERT, UPDATE, DELETE, FIND, Object Nesting.
