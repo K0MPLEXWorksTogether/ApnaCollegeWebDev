@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>User Count</title>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body>
+  <h1>Total Users</h1>
+  <button onclick="fetchCount()">Get Count</button>
+  <p id="count"></p>
+
+  <script>
+    async function fetchCount() {
+      const res = await axios.get('/users/count');
+      document.getElementById('count').innerText = `Count: ${res.data}`;
+    }
+  </script>
+</body>
+</html>

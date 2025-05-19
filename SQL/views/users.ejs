@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Users</title>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body>
+  <h1>All Users</h1>
+  <button onclick="fetchUsers()">Load Users</button>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>User ID</th>
+        <th>Username</th>
+        <th>Email</th>
+        <th>Password</th>
+      </tr>
+    </thead>
+    <tbody id="userTable"></tbody>
+  </table>
+
+  <script>
+    async function fetchUsers() {
+      const res = await axios.get('/users');
+      const table = document.getElementById('userTable');
+      table.innerHTML = '';
+      res.data.forEach(user => {
+        const row = `<tr>
+          <td>${user.userId}</td>
+          <td>${user.username}</td>
+          <td>${user.email}</td>
+          <td>${user.password}</td>
+        </tr>`;
+        table.innerHTML += row;
+      });
+    }
+  </script>
+</body>
+</html>
