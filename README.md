@@ -40,3 +40,4 @@ A documentation of all the code I practised during my web development journey.
 - **Node.js With SQL**: Created an API to handle user data, and stored the data in MySQL database. Then wrote views as a frontend for this API.
 - **MongoDB-1**: Installtion, mongosh, JSON Vs. BSON, INSERT, UPDATE, DELETE, FIND, Object Nesting.
 - **MongoDB-2**: Working with mongoose, Schema, Model, CRUD, Schema Validators, Enforcing Schema Validations On Updates And Errors.  
+- **Node.js With MongoDb**: Created an API that performs CRUD operations and provides a UI to do so, on a Chats model.

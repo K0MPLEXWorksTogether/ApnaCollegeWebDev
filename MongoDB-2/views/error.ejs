@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Error</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #ffe6e6;
+        color: #a94442;
+        padding: 40px;
+        text-align: center;
+      }
+
+      .error-container {
+        background-color: #f2dede;
+        border: 1px solid #ebccd1;
+        padding: 20px;
+        border-radius: 5px;
+        display: inline-block;
+      }
+
+      h1 {
+        font-size: 36px;
+        margin-bottom: 10px;
+      }
+
+      p {
+        font-size: 18px;
+        margin: 0;
+      }
+
+      a {
+        display: inline-block;
+        margin-top: 20px;
+        text-decoration: none;
+        color: #a94442;
+        font-weight: bold;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="error-container">
+      <h1>Something Went Wrong</h1>
+      <p><%= message || 'An unexpected error occurred.' %></p>
+      <a href="/">Go Back Home</a>
+    </div>
+  </body>
+</html>
